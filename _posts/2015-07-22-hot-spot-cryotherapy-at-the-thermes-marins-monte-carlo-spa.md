@@ -38,7 +38,7 @@ app_links:
 isBasedOnUrl: 'https://www.yahoo.com/beauty/hot-spot-cryotherapy-at-the-thermes-marins-monte-119611113973.html'
 title: 'Hot Spot: Cryotherapy at the Thermes Marins-Monte Carlo Spa'
 datePublished: '2015-07-22T22:51:21.191Z'
-dateModified: '2015-07-22T22:51:21.191Z'
+dateModified: '2015-07-22T22:51:37.869Z'
 sourcePath: _posts/2015-07-22-hot-spot-cryotherapy-at-the-thermes-marins-monte-carlo-spa.md
 published: true
 _context: 'http://schema.org'
