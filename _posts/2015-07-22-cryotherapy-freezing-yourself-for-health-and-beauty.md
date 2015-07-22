@@ -23,7 +23,7 @@ app_links: []
 isBasedOnUrl: 'http://news.yahoo.com/video/cryotherapy-freezing-yourself-health-beauty-205038037-cbs.html;_ylt=AwrSbgLcHLBVlkEAoUxXNyoA;_ylu=X3oDMTEyMDdjbHVuBGNvbG8DZ3ExBHBvcwM1BHZ0aWQDQjAyODJfMQRzZWMDc3I-'
 title: 'Cryotherapy: Freezing yourself for health and beauty'
 datePublished: '2015-07-22T22:51:21.237Z'
-dateModified: '2015-07-22T22:51:21.237Z'
+dateModified: '2015-07-22T22:51:37.845Z'
 sourcePath: _posts/2015-07-22-cryotherapy-freezing-yourself-for-health-and-beauty.md
 published: true
 _context: 'http://schema.org'
