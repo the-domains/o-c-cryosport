@@ -23,7 +23,7 @@ app_links: []
 isBasedOnUrl: 'http://www.reuters.com/article/2015/02/03/ga-impact-cryotherapy-idUSnBw035154a+100+BSW20150203'
 title: 'Impact Cryotherapy Announces Sports Medicine Leader James R. Andrews, M.D. as Chair of New National Advisory Board'
 datePublished: '2015-07-22T22:29:27.741Z'
-dateModified: '2015-07-22T22:29:27.741Z'
+dateModified: '2015-07-22T22:51:38.099Z'
 sourcePath: _posts/2015-07-22-impact-cryotherapy-announces-sports-medicine-leader-james-r.md
 published: true
 _context: 'http://schema.org'
