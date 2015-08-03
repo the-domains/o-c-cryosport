@@ -1,6 +1,7 @@
 name: O.C. CryoSport
 favicon: null
 layout_spectrum: 1
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
