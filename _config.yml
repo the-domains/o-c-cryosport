@@ -1,7 +1,6 @@
-name: null
+name: O.C. CryoSport
 favicon: null
 layout_spectrum: 0.8
-typography_spectrum: 0.5
 cta:
   domain: null
   bucket: null
@@ -22,5 +21,5 @@ color:
   rhythmicContrast: 0.5
 purpose:
   - name: awareness
-    item: null
+    item: 1e514ad2-1ee5-4b6c-8b1f-c3d6c04970c3
     url: null
